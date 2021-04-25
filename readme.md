@@ -1,8 +1,5 @@
 # Simple APIs using FastAPI Webfamework 🚄
 
-- 진행기간 : 2021년 04월 23일 ~ 2021년 4월 26일
-- 리팩토링 : 2021년 03월 17일 ~ 2021년 3월 18일
-<img width="933" alt="Screen Shot 2020-12-24 at 5 49 39 PM" src="https://media.vlpt.us/images/hyeseong-dev/post/6291b043-39ed-4036-b603-ab9865b4f34f/image.png">
 
 ## **🏠프로젝트 소개**
 
@@ -25,6 +22,17 @@
 
 3. python 3.6부터 제공된 type hint, DI를 통한 재사용성과 확장성등
 ---
+
+
+### 디렉토리 구조
+![image](https://user-images.githubusercontent.com/57933835/116003163-d4e32480-a637-11eb-9449-8947501d4eb4.png)
+
+### Swagger
+![image](https://user-images.githubusercontent.com/57933835/116003264-402cf680-a638-11eb-9070-e7cb425e6dba.png)
+
+### Deta(배포)
+![image](https://user-images.githubusercontent.com/57933835/116003220-1247b200-a638-11eb-96fc-04f2320fbe64.png)
+
 
 ## ⭐️ **구현 기능**
 
